@@ -4,9 +4,9 @@ role: PhD student
 bio: My research interests include disability in later life, social
   realtionships and life course perspective.
 interests:
-  - disability in later life
-  - social realtionships
-  - life course perspective
+  - Disability in later life
+  - Social realtionships
+  - Life course perspective
 social:
   - icon: envelope
     icon_pack: fas
