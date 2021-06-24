@@ -41,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Jiecheng Luo a self-motivated PhD student who has developed research quantitative and analytical skills with a strong capacity to conduct independent research. I am interested in developing a career that combines teaching and research, while maintaining my interest in public engagement on ageing into disability.
+Jiecheng Luo is a self-motivated PhD student who has developed research quantitative and analytical skills with a strong capacity to conduct independent research. I am interested in developing a career that combines teaching and research, while maintaining my interest in public engagement on ageing into disability.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
