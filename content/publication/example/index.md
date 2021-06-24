@@ -15,7 +15,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
 draft: true
-featured: true
+featured: false
 tags: []
 slides: example
 url_pdf: ""
