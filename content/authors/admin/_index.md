@@ -40,4 +40,4 @@ highlight_name: false
 ---
 I am a PhD student in Epidemiology and Public Health at University College London. My research interests revolve around disability and social relationships in later life. I also work with the ESRC International Centre For Lifecourse Studies in Society and Health (ICLS). I am interested in developing a career that combines teaching and research, while maintaining my interest in public engagement on ageing into disability.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_J.LUO_20210615.pdf" "newtab" >}}CV{{< /staticref >}}.
