@@ -28,16 +28,16 @@ organizations:
     url: https://www.ucl.ac.uk/
 education:
   courses:
-    - course: Master of Public Health
+    - course: Master of Public Health (Healthy Ageing)
       institution: Xiamen University
       year: 2017-2020
-    - course: Bachelor of Management in Public Service Administration (Healthcare Management)
+    - course: Bachelor of Public Service Administration (Healthcare Management)
       institution: Anhui Medical University
       year: 2012-2017
 email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD student in Epidemiology and Public Health at University College London. My research interests revolve in disability and social relationships in later life. I also work with the ESRC International Centre For Lifecourse Studies in Society and Health (ICLS). I am interested in developing a career that combines teaching and research, while maintaining my interest in public engagement on ageing into disability.
+I am a PhD student in Epidemiology and Public Health at University College London. My research interests revolve around disability and social relationships in later life. I also work with the ESRC International Centre For Lifecourse Studies in Society and Health (ICLS). I am interested in developing a career that combines teaching and research, while maintaining my interest in public engagement on ageing into disability.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
