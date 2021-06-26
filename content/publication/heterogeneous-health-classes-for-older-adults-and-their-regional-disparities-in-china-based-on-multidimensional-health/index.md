@@ -3,7 +3,11 @@ title: "Heterogeneous health classes for older adults and their regional
   disparities in China: based on multidimensional health"
 publication_types:
   - "2"
-authors: []
+authors:
+  - Linglong Ye
+  - Jiecheng Luo
+  - Ben-Chang Shia
+  - Ya Fang
 doi: https://doi.org/10.1016/j.puhe.2019.08.023
 abstract: >-
   Objectives
