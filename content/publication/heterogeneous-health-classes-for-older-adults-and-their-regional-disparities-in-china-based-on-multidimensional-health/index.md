@@ -9,6 +9,7 @@ authors:
   - Ben-Chang Shia
   - Ya Fang
 doi: https://doi.org/10.1016/j.puhe.2019.08.023
+publication: Public Health
 abstract: >-
   Objectives
 
