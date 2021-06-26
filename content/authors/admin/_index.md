@@ -2,10 +2,10 @@
 title: Jiecheng Luo
 role: PhD student
 bio: My research interests include disability in later life, social
-  realtionships and life course perspective.
+  realtionships among older adults and life course perspective.
 interests:
   - Disability in later life
-  - Social realtionships
+  - Social realtionships among older adults
   - Life course perspective
 social:
   - icon: envelope
@@ -26,6 +26,8 @@ social:
 organizations:
   - name: University College London
     url: https://www.ucl.ac.uk/
+  - name: International Centre for Lifecourse Studies
+    url: https://www.ucl.ac.uk/epidemiology-health-care/research/epidemiology-public-health/research/international-centre-for-lifecourse-studies
 education:
   courses:
     - course: Master of Public Health (Healthy Ageing)
