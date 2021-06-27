@@ -2,14 +2,17 @@
 title: Step for writing a literature review
 subtitle: ""
 date: 2021-03-15T07:09:23.390Z
-summary: https://www.scribbr.com/dissertation/literature-review/
+summary: ""
 draft: false
 featured: false
+authors:
+  - Shona McCombes
 image:
   filename: ""
   focal_point: ""
   preview_only: false
 ---
+[original link](https://www.scribbr.com/dissertation/literature-review/)
 
 ## Step 1: Search for relevant literature
 
