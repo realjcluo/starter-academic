@@ -2,7 +2,7 @@
 title: Life Course, life cycle, life history, life span and life stage
 subtitle: in 'Encyclopedia of Sciences and Religions'
 date: 2021-06-18T13:00:54.984Z
-summary: "DOI: https://doi.org/10.1007/978-1-4020-8265-8_201175"
+summary: ""
 draft: false
 featured: false
 authors:
@@ -12,6 +12,8 @@ image:
   focal_point: ""
   preview_only: false
 ---
+DOI: https://doi.org/10.1007/978-1-4020-8265-8_201175
+
 Life course means: (1) Events marking transitions and trajectories of roles extending across the life span, such as entering and leaving school, acquiring a full-time job, getting married, divorced, having children, retiring, and the like; (2) a perspective on the investigation of the changing environment of the individual and its developmental implications; (3) an approach offering a way of linking early life experiences to later life outcomes, such as the exposure to early life risk factors and their consequences for later life health.
 
 Life cycle means: (1) In biology, the term refers to the continuous and irreversible sequence of changes undergone by an organism from one primary form, as a gamete, to the development of the same form again. (2) In sociology, the term refers to a series of stages, across the life span, such as childhood and middle age, which are socially constructed and characterize the course of existence of an individual.
