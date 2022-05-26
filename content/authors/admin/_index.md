@@ -1,10 +1,11 @@
 ---
 title: Jiecheng Luo
 role: PhD student
-bio: My research interests include disability in later life, social
+bio: My research interests include physical functioning in later life, social
   realtionships and life course perspective.
 interests:
-  - Disability in later life
+  - Disability
+  - Physical capacity
   - Social realtionships
   - Life course perspective
 social:
