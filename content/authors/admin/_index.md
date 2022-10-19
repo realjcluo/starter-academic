@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/realjcluo
 organizations:
-  - name: University College London
-    url: https://www.ucl.ac.uk/
+  - name: EPH,UCL
+    url: https://www.ucl.ac.uk/epidemiology-health-care/research/ucl-research-department-epidemiology-public-health
   - name: ICLS
     url: https://www.ucl.ac.uk/epidemiology-health-care/research/epidemiology-public-health/research/international-centre-for-lifecourse-studies
 education:
@@ -34,13 +34,13 @@ education:
     - course: Master of Public Health (Healthy Ageing)
       institution: Xiamen University
       year: 2017-2020
-    - course: Bachelor of Public Service Administration (Healthcare Management)
+    - course: Bachelor in Healthcare Management (with one-year clinical training)
       institution: Anhui Medical University
       year: 2012-2017
 email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD student in Epidemiology and Public Health at University College London. My research interests revolve around disability and social relationships in later life. I also work with the International Centre For Lifecourse Studies (ICLS). I am interested in developing a career that combines teaching and research, while maintaining my interest in public engagement on ageing into disability.
+I am a PhD student in Epidemiology and Public Health at University College London. My research interests revolve around social relationships and disability in later life. I also work with the International Centre For Lifecourse Studies (ICLS). I am interested in developing a career that combines teaching and research, while maintaining my interest in public engagement on ageing into disability.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_J.LUO_20210615.pdf" "newtab" >}}CV{{< /staticref >}}.
