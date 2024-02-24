@@ -1,5 +1,13 @@
 name: Updater (WIP)
 
+steps:
+- uses: actions/checkout@v4
+- uses: actions/setup-node@v4
+  with:
+    node-version: 20
+- run: npm ci
+- run: npm test
+
 on:
   schedule:
     - cron: 0 0 * * 0
